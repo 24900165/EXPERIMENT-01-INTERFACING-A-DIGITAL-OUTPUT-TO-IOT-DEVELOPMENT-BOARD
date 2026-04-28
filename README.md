@@ -535,16 +535,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## 1A:
 
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/3506d580-7770-426f-bf0a-cc6d15ba347f" />
+<img width="1600" height="1105" alt="image" src="https://github.com/user-attachments/assets/593985aa-3f3c-45ba-bf9d-1150b441cde6" />
 
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/0fac30cf-8db6-42ae-878c-995a6bbb00a1" />
+<img width="1600" height="1143" alt="image" src="https://github.com/user-attachments/assets/c5961d8f-fe63-4aeb-aa4c-8632973d5bb6" />
+
+
 
 
 ## 1B:
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9dd6a27-6a9e-4f51-a504-0e79c196abba" />
+<img width="1600" height="1307" alt="image" src="https://github.com/user-attachments/assets/157ff767-36bb-4a02-b6d5-76cfd9b9b75e" />
 
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/72c7eadc-8454-4c03-be76-d57fad175438" />
-
+<img width="1600" height="1189" alt="image" src="https://github.com/user-attachments/assets/8dac9189-e287-47c0-932b-fd3e7e9442c8" />
 
 
 
